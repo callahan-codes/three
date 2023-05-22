@@ -6,4 +6,6 @@ Creator to 3D Map Backgound: Sergej Majboroda (All assets: https://polyhaven.com
 
 Project creator: Bryce Callahan (https://callahan-codes.github.io/)
 
+All THREE.js projects are built using <a href="">vite</a>
+
 If you have any questions or comments, my email can be found in my website above or in my github profile.
