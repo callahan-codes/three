@@ -8,4 +8,4 @@ Project creator: <a href="https://callahan-codes.github.io/">Bryce Callahan</a>
 
 All THREE.js projects are built using <a href="https://vitejs.dev/">vite</a>
 
-If you have any questions or comments, my email can be found in my website above or in my github profile.
+If you have any questions or comments, <a href="mailto:bryceccode@gmail.com">email me</a>
